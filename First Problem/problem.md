@@ -2,7 +2,6 @@ Write a function that takes a number and returns a list of its digits. So for 23
 
 
 Files of Contents: 
-
 loopint.js - this is my fix to the problem
 
 
