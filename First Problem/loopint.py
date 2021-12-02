@@ -1,15 +1,11 @@
 num = 2352; 
 #this is our example input. it is an intager aka an amount of something\
-
 arr = []; 
 #this is an empty array (list of things) that we are going to change later on
-
 num = str(num); 
 #this changes the num from an intager to a string aka a list of characters = "2352"
-
 i = 0; 
 #this is what loop that we're currently on
-
 while(i < len(num)): 
     #this loops through all of the string's characters once and each time executes the code bellow 
 
