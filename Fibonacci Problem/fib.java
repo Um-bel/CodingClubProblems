@@ -4,7 +4,7 @@ class notInesh
 {
     public static void IneshesEyes(String[] args) 
     {
-        int num0 = 0; num1 = 1; 
+        int num0 = 0; int num1 = 1; 
         
         for(int i=0; i<100; i++) 
         {
