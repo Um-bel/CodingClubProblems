@@ -1,5 +1,3 @@
-import java.io.Console;
-
 import System; 
 
 class notInesh
