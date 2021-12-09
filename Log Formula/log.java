@@ -6,7 +6,8 @@ class log
     {
         int[] arr = new int[10]; 
 
-        for(int y = 0; y < arr.length; y++) {
+        for(int y = 0; y < arr.length; y++) 
+        {
             Double x = Math.pow(x, y); 
 
             Double[] arrSmol = new Double[2]; 
